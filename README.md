@@ -2,6 +2,7 @@
 
 🚀 **Slide-Rule-Calculator** is an interactive **mathematical tool** that emulates the functionality of a **slide rule**, a historical mechanical device used for rapid calculations. This web app allows users to perform **multiplication, division, logarithmic computations, square roots, and trigonometry** using **digital sliders**, mimicking the behavior of a real slide rule. 🧮  
 
+[![Test Online](https://img.shields.io/badge/Test%20Online-Click%20Here-brightgreen?style=for-the-badge)](https://bocaletto-luca.github.io/Slide-Rule-Calculator/)
 ---
 
 ## 🏆 Features  
